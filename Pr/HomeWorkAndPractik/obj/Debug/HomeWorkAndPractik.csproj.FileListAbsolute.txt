@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\obj\Debug\HomeWorkAndPractik.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\obj\Debug\HomeWorkAndPractik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\bin\Debug\HomeWorkAndPractik.exe.config
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\bin\Debug\HomeWorkAndPractik.exe
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\bin\Debug\HomeWorkAndPractik.pdb
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\obj\Debug\HomeWorkAndPractik.exe
+C:\Users\User\source\repos\Новая папка\HomeWorkAndPractik\obj\Debug\HomeWorkAndPractik.pdb
